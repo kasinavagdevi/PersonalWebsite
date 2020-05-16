@@ -1,0 +1,31 @@
+.center {
+	text-align: center;
+}
+.floatLeft {
+	float: left;
+}
+.margin {
+	margin-bottom: 25px;
+}
+
+#picture{
+	height: 200px;
+	width: 130px;
+	margin: 15px;
+}
+.advertisement{
+  height: 110px;
+  width: 230px;
+  margin: 30px auto 0px;
+  border:solid black;
+  border-width:1px;
+  padding: 10px;
+}
+
+.advertisement span{
+  margin: auto;
+}
+
+#left-bar{
+	padding: 10px;
+}
